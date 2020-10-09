@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="design_patterns_manage" target="1.7" />
-      <module name="study_manage" target="1.5" />
+      <module name="design_patterns_manage" target="8" />
+      <module name="study_manage" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
