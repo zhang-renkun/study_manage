@@ -10,8 +10,8 @@ package com.zrk.factory;
 public class SimpleFactory {
 
     public static void main(String[] args) {
-        concreteProductA concreteProductA = new concreteProductA();
-        concreteProductB concreteProductB = new concreteProductB();
+        ConcreteProductA concreteProductA = new ConcreteProductA();
+        ConcreteProductB concreteProductB = new ConcreteProductB();
         System.out.println(concreteProductA.createProduct());
         System.out.println(concreteProductB.createProduct());
     }
@@ -19,7 +19,7 @@ public class SimpleFactory {
 }
 
 // 工程方法的具体实现
-class concreteProductA extends Application {
+class ConcreteProductA extends Application {
 
     @Override
     Product createProduct() {
@@ -28,7 +28,7 @@ class concreteProductA extends Application {
 }
 
 // 工程方法的具体实现
-class concreteProductB extends Application {
+class ConcreteProductB extends Application {
 
     @Override
     Product createProduct() {
