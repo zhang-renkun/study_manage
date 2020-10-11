@@ -1,7 +1,7 @@
 package com.zrk.singleton.enumsingleton;
 
 /**
- * This is Description
+ * This is Description：枚举式单例
  *
  * @author zhangrenkun
  * @date 2020/09/29

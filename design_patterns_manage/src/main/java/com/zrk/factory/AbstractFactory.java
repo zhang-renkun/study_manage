@@ -1,7 +1,7 @@
 package com.zrk.factory;
 
 /**
- * This is Description
+ * This is Description：抽象工厂模式
  *
  * @author zhangrenkun
  * @date 2020/10/09

@@ -3,7 +3,7 @@ package com.zrk.prototype;
 import java.io.*;
 
 /**
- * This is Description
+ * This is Description：原型模式
  *
  * @author zhangrenkun
  * @date 2020/10/11

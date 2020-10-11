@@ -3,7 +3,7 @@ package com.zrk.singleton.innerclasssingleton;
 import java.io.*;
 
 /**
- * This is Description
+ * This is Description：静态内部类单例
  *
  * @author zhangrenkun
  * @date 2020/09/29

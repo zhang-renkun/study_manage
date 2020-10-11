@@ -1,7 +1,7 @@
 package com.zrk.singleton.hungrysingleton;
 
 /**
- * This is Description
+ * This is Description：饿汉模式
  *
  * @author zhangrenkun
  * @date 2020/09/29

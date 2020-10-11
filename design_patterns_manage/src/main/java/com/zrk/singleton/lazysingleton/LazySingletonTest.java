@@ -1,7 +1,7 @@
 package com.zrk.singleton.lazysingleton;
 
 /**
- * This is Description
+ * This is Description：懒汉式
  *
  * @author zhangrenkun
  * @date 2020/09/29
