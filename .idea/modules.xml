@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/design_patterns_manage/design_patterns_manage.iml" filepath="$PROJECT_DIR$/design_patterns_manage/design_patterns_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preformance_tuning_manage/preformance_tuning_manage.iml" filepath="$PROJECT_DIR$/preformance_tuning_manage/preformance_tuning_manage.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_manage.iml" filepath="$PROJECT_DIR$/study_manage.iml" />
     </modules>
   </component>

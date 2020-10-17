@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>design_patterns_manage</module>
+        <module>preformance_tuning_manage</module>
     </modules>
 
 

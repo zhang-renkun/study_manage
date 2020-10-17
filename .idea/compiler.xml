@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design_patterns_manage" />
+        <module name="preformance_tuning_manage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design_patterns_manage" target="8" />
+      <module name="preformance_tuning_manage" target="8" />
       <module name="study_manage" target="8" />
     </bytecodeTargetLevel>
   </component>
