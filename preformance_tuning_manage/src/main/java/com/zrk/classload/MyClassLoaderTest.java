@@ -106,8 +106,8 @@ public class MyClassLoaderTest {
 
             System.out.println("--------------- 完美分割线 --------------");
             // TODO 模拟tomcat的webappClassLoader加载不同war包不同版本类实现共存和隔离
-            MyClassLoader classLoader1 = new MyClassLoader("D:/test1");
-            Class clazz1 = classLoader1.loadClass("com.tuling.jvm.User1");
+            MyClassLoader classLoader1 = new MyClassLoader("");
+            Class clazz1 = classLoader1.loadClass("com.zrk.jvm.User1");
             Object obj1 = clazz1.newInstance();
             Method method1= clazz1.getDeclaredMethod("sout", null);
             method1.invoke(obj1, null);
