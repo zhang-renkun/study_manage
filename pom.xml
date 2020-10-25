@@ -11,6 +11,7 @@
     <modules>
         <module>design_patterns_manage</module>
         <module>preformance_tuning_manage</module>
+        <module>data_structures_and_algorithms_manage</module>
     </modules>
 
 
